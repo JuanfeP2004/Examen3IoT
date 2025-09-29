@@ -5,7 +5,7 @@ La opción elejida en el examen fue la del SIATA, mas especificamente de la medi
 
 El dataset que se utilizo fue el siguiente: (https://siata.gov.co/EntregaData1/Datos_SIATA_Aire_AQ_pm25_Last.json)
 
-##**Funcionamiento**
+## **Funcionamiento**
 El google colab esta dividio en tres etapas:
 
 1. La limpieza de los datos del SIATA
@@ -14,7 +14,7 @@ El google colab esta dividio en tres etapas:
 
 Para el dashboard se utilizaron una serie de imagenes las cuales estan ubicadas en una carpeta llamada **assets** las cuales se subieron en el google colab
 
-##**Tecnologias utilizadas**
+## **Tecnologias utilizadas**
 
 * **Google colab** como plataforma de desarrollo
 * **Python** como lenguaje de programación
